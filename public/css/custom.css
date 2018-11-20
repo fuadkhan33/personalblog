@@ -1,0 +1,59 @@
+.sidebar-cus{
+  margin-left:  5px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  margin-right: 5px;
+}
+
+.card-mar-cus{
+  margin-bottom: 60px;
+  width : inherit;
+  float: inherit;
+}
+
+.card-img-size{
+  height: 480px;
+  width: 320px;
+}
+.com-like-border{
+  border: 0.2px solid green;
+  border-radius: 3px;
+  padding: 5px;
+}
+.card-title-cus{
+  color: green;
+}
+
+
+.user-form-cus{
+  margin-bottom:  100px;
+}
+
+.cus-thumbnail{
+  height: 40px;
+  width: 40px;
+}
+.cus-profile-card-header{
+  text-align: center;
+}
+.cus-profile-card-image{
+  height: 200px;
+  width: 200px;
+}
+.cus-profile-margin{
+  margin-top: 25px;
+}
+.cus-log-reg-margin{
+  margin-top: 50px;
+}
+.cus-card-width{
+  width: 100%;
+  margin-bottom: 60px;
+}
+.cus-comments-width{
+  width: 100%;
+  margin-bottom: 60px;
+}
+.cus-submit-post-button-mar{
+  margin-top: 40px;
+}
